@@ -1,5 +1,5 @@
 # pong
-Classic Pong game for two players.
+Classic Pong game for two players designed with use of tkinter and canvas modules of Python.
 Noticeable features compared to the course's author solution is the lack of multiple bounces of one paddle or 'catching' the ball once it has passed the paddle.
 
 
